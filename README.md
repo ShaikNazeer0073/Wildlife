@@ -39,6 +39,6 @@ Depends upon the path of your extracted folder.)
 - Nazeer  
 - Ruthwik   
 - Bhanu
-  Thank You.
+## Thank You.
 
 
